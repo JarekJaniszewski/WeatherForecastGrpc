@@ -1,0 +1,37 @@
+Created TOGAF-based architecture deliverables (ADM phases B–D), including solution design and integration architecture.
+Produced architecture diagrams, ADRs, and technical documentation for fintech and debt collection systems.
+Translated business requirements into scalable cloud-native solutions using Azure and microservices.
+Defined OAuth2 authentication and authorization model for customer and internal systems.
+Designed event-driven architecture using ASB for payment and debt lifecycle processing.
+Reviewed non-functional requirements (security, GDPR, HA, DR, observability).
+Led architecture review boards ensuring TOGAF governance compliance.
+Defined REST API standards using APIM (versioning, throttling, contracts).
+Validated CI/CD pipelines in Azure DevOps for secure and automated deployments.
+Supported modernization from monolith to microservices on AKS.
+
+
+Delivery & Market Growth – Architecture (Short)
+Created TOGAF ADM-based architecture deliverables (B–D) for fintech systems.
+Produced solution designs, architecture diagrams, ADRs, and integration specs.
+Translated business requirements into microservices architecture on Azure/AKS.
+Designed OAuth2 / OpenID Connect authentication for enterprise applications.
+Ensured NFR compliance (GDPR, security, HA, DR, observability).
+Designed event-driven integration using messaging (e.g., Kafka / asynchronous processing).
+Participated in architecture review boards (ARB) for solution design approval.
+Defined REST API standards using APIM.
+Validated CI/CD pipelines in Azure DevOps for secure deployments.
+Supported monolith-to-microservices modernization on Azure Kubernetes Service (AKS).
+
+
+
+Thought Leadership – Architecture
+Defined reusable architecture patterns for payment and debt collection integrations across teams.
+Introduced standardized service decomposition approach for legacy system modernization.
+Established enterprise integration approach for asynchronous communication between systems.
+Defined API lifecycle management approach (design, versioning, deprecation strategy).
+Introduced architecture decision-making framework using ADRs for consistency across projects.
+Set guidelines for system resilience patterns (retry, circuit breaker, idempotency).
+Promoted distributed system observability practices (logging, tracing, correlation IDs).
+Defined approach for secure external partner integrations and third-party system onboarding.
+Introduced cloud cost awareness practices in architecture design decisions.
+Guided teams on balancing domain-driven design (DDD) with delivery constraints in enterprise systems.
